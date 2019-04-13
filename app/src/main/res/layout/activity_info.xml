@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        style="@style/AppTextView.Header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_author" />
+
+    <TextView
+        android:id="@+id/tv_info_author_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_author_link" />
+
+    <TextView
+        style="@style/AppTextView.Header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_email" />
+
+    <TextView
+        android:id="@+id/tv_info_email.link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_email_link" />
+
+    <TextView
+        style="@style/AppTextView.Header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_app_icon" />
+
+    <TextView
+        android:id="@+id/tv_info_app_icon_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_app_icon_link" />
+
+    <TextView
+        style="@style/AppTextView.Header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_icons" />
+
+    <TextView
+        android:id="@+id/tv_info_icons_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info_icons_link" />
+
+</LinearLayout>

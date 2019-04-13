@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948180424114",
+    "firebase_url": "https://currenciesapp-46d87.firebaseio.com",
+    "project_id": "currenciesapp-46d87",
+    "storage_bucket": "currenciesapp-46d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948180424114:android:36f640a537385ed7",
+        "android_client_info": {
+          "package_name": "com.powerman23rus.currenciesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948180424114-t69l9cmluk81nun149v9l934utj39rm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXj7hMByCaQ8IXBbHBCW28ZgUNM4WnrFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948180424114-t69l9cmluk81nun149v9l934utj39rm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

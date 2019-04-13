@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Currencies App</string>
+
+    <!--Icon made by [author link] from www.flaticon.com-->
+
+    <string name="currency_AUD">Australian dollar</string>
+    <!--<a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>-->
+    <string name="currency_BGN">Bulgarian lev</string>
+    <string name="currency_BRL">Brazilian Real</string>
+    <string name="currency_CAD">Canadian dollar</string>
+    <string name="currency_CHF">Swiss franc</string>
+    <string name="currency_CNY">Chines Yuan</string>
+    <string name="currency_CZK">Czech koruna</string>
+    <string name="currency_DKK">Danish krone</string>
+    <string name="currency_EUR">Euro</string>
+    <string name="currency_GBP">Pound sterling</string>
+    <string name="currency_HKD">Hong Kong dollar</string>
+    <string name="currency_HRK">Croatian kuna</string>
+    <string name="currency_HUF">Hungarian forint</string>
+    <string name="currency_IDR">Indonesian Rupiah</string>
+    <string name="currency_ILS">Israeli new shekel</string>
+    <string name="currency_INR">Indian rupee</string>
+    <string name="currency_ISK">Iceland Krona</string>
+    <string name="currency_JPY">Japanese yen</string>
+    <string name="currency_KRW">South Korean won</string>
+    <string name="currency_MXN">Mexican peso</string>
+    <string name="currency_MYR">Malaysian ringgit</string>
+    <string name="currency_NOK">Norwegian Krone</string>
+    <string name="currency_NZD">New Zealand Dollar</string>
+    <string name="currency_PHP">Philippine Peso</string>
+    <string name="currency_PLN">Polish Zloty</string>
+    <string name="currency_RON">Romanian leu</string>
+    <string name="currency_SEK">Swedish krona</string>
+    <string name="currency_SGD">Singapore dollar</string>
+    <string name="currency_THB">Thai baht</string>
+    <string name="currency_TRY">Turkish lira</string>
+    <string name="currency_USD">US Dollar</string>
+    <string name="currency_ZAR">South African rand</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="currency_description">Currency icon</string>
+    <string name="info">Info</string>
+
+    <string name="info_title">Info</string>
+    <string name="info_author">Author:</string>
+    <string name="info_author_link"><a href="https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D1%82%D1%80%D1%83%D0%B1%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-87aa3079/">Trubnikov Yaroslav</a></string>
+    <string name="info_email">Email:</string>
+    <string name="info_email_link"><a href="mailto:powerman23rus@gmail.com">powerman23rus@gmail.com</a></string>
+    <string name="info_icons">Icons:</string>
+    <string name="info_icons_link">App icon made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/">Flaticon</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons BY 3.0</a></string>
+    <string name="info_app_icon">App icon:</string>
+    <string name="info_app_icon_link">Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> from <a href="https://www.flaticon.com/">Flaticon</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons BY 3.0</a></string>
+
+</resources>
