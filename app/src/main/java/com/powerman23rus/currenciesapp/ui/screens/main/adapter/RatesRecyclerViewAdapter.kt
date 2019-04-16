@@ -10,7 +10,7 @@ import com.powerman23rus.currenciesapp.core.extensions.views.textIfDifferent
 import com.powerman23rus.currenciesapp.core.ui.screens.recyclerview.BaseRecyclerViewAdapter
 import com.powerman23rus.currenciesapp.data.repositories.currencies.dto.Rate
 import kotlinx.android.synthetic.main.item_rate_list.view.*
-
+import java.lang.NumberFormatException
 
 
 /**
@@ -63,8 +63,12 @@ class RatesRecyclerViewAdapter : BaseRecyclerViewAdapter<Rate>() {
             valueEditTextView.doAfterTextChange {
                 val item = item
                 if (adapterPosition == 0 && item != null) {
-                    val value = if (it.isNullOrEmpty()) 0.0 else it.replace(",", ".").toDouble()
-                    listener?.onRateChange(item, value)
+                    try {
+                        val value = if (it.isNullOrEmpty()) 0.0 else it.replace(",", ".").toDouble()
+                        listener?.onRateChange(item, value)
+                    } catch (e : NumberFormatException) {
+
+                    }
                 }
             }
         }
